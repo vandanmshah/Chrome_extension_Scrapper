@@ -1,0 +1,4 @@
+- This chrome extention helps to scrap links of anything like videos, images, etc and stores data in python file. To get the data in python here i am using Flask.
+- This extention enable on load of perticuler page.
+- I make this as a template so i can use it and change it as per my needs. 
+- All i need to do is just change in "manifest.json" and write your business logic in "content.js" like select some tag and get data and then send those data to python file using post method.
